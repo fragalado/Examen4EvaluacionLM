@@ -55,7 +55,7 @@ class Usuario{
 // Lista donde guardaremos objetos Usuario
 let lista = [];
 
-// Variables donde guardaremos el usuario que se ha logueado
+// Variables donde guardaremos el usuario que se ha logueado (esto es para la recuperacion de contraseña)
 let nombreUsu, apellUsu, pRecuperacionUsu, rRecuperacionUsu, emailUsu;
 
 
